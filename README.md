@@ -11,9 +11,13 @@ This is a dynamic and interactive Excel-based data analysis project that provide
 
 ## I learnt -
 **Data Cleaning**: Fix errors, remove duplicates, and prepare datasets.
+
 **Data Processing**: Organize and transform data efficiently.
+
 **Data Analysis**: Perform calculations and gain insights.
+
 **Data Collection**: Create a modern data entry form that stores data automatically.
+
 **Data Visualization**: Design professional dashboards and charts.
 
 
